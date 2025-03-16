@@ -1,47 +1,6 @@
 # StudyNotion Online Education Platform (MERN App) [Website Link](https://studynotion-frontend.vercel.app/)
 
-# StudyNotion - EdTech Platform
-
-StudyNotion is a full-stack **MERN**-based EdTech platform designed to provide a seamless learning experience with user authentication and a modern UI using **Tailwind CSS**.
-
-## 📌 Features
-
-- **User Authentication** (Login, Signup, JWT-based Auth)
-- **Course Management** (Create, Update, Delete Courses)
-- **User Roles** (Students & Instructors)
-- **Secure Backend** with **MongoDB, Express, Node.js**
-- **Styled with Tailwind CSS**
-- **Dynamic Frontend** with React
-
-## 🚀 Tech Stack
-
-- **Frontend:** React, Tailwind CSS
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Authentication:** JWT, bcrypt
-
-## 🛠️ Setup & Installation
-
-1. **Clone the repository**
-   ```sh
-   git clone https://github.com/shivammourya17/Studynotion-EdtechPlatform.git
-   ```
-
-2. **Frontend Setup**
-   ```sh
-   cd Studynotion-EdtechPlatform
-   npm install
-   npm run dev
-   ```
-
-3. **Backend Setup**
-   ```sh
-   cd server
-   npm install
-   npm start
-   ```
-
-
+![Main Page](images/mainpage.png)
 
 ## Project Description
 
@@ -104,6 +63,13 @@ provides a flexible and scalable data storage solution. MongoDB allows for the s
 unstructured and semi-structured data. The database stores the course content, user data, and other
 relevant information related to the platform.
 
+
+### Architecture Diagram
+
+Here is a high-level diagram that illustrates the architecture of the StudyNotion ed-tech
+platform:
+
+![Architecture](images/architecture.png)
 
 ## Front End
 
@@ -243,17 +209,4 @@ RESTful principles, the API will be scalable, maintainable, and reliable. The sa
 requests and responses provided above illustrate how each endpoint will function and
 what kind of data it will accept or return. With this API design, StudyNotion will be able to
 provide a smooth user experience while ensuring security and stability.
-
-## 🌟 Contributing
-
-Feel free to contribute by creating pull requests or opening issues.
-
-## 📜 License
-
-This project is open-source and available under the MIT License.
-
----
-
-⭐ Don't forget to **star** the repository if you found this helpful!
-
 
