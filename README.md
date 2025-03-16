@@ -105,13 +105,6 @@ unstructured and semi-structured data. The database stores the course content, u
 relevant information related to the platform.
 
 
-### Architecture Diagram
-
-Here is a high-level diagram that illustrates the architecture of the StudyNotion ed-tech
-platform:
-
-![Architecture](images/architecture.png)
-
 ## Front End
 
 The front end of StudyNotion has all the necessary pages that an ed-tech platform should
